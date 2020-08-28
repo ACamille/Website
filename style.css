@@ -36,7 +36,7 @@ h1 {
 
 .wrapper {
   margin: 0 auto;
-  width: 80%;
+  width: 1000px;
 }
 
 .train {
@@ -82,7 +82,7 @@ a {
 }
 
 #footer {
-  margin-top: 30px;
+  margin-top: 50px;
   clear: both;
   text-align: center;
 }
