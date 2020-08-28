@@ -25,6 +25,7 @@ h1 {
   text-transform: uppercase;
   font-size: 50pt;
   font-family: 'Handlee', cursive;
+  word-spacing: 20px;
 }
 
 .nav_left {
